@@ -41,7 +41,7 @@
 
 **ML / NLP & Data Science**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,colab" />
 </p>
 
 **Software & Environments**
