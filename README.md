@@ -46,7 +46,7 @@
 
 **Software & Environments**
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=matlab,visualstudio,vscode,colab,rstudio,jupyter" />
+  <img src="https://skillicons.dev/icons?i=matlab,visualstudio,vscode,colab,rstudio,jupyter,AutoCAD" />
 </p>
 
 **Documentation & Office Productivity**
