@@ -90,11 +90,6 @@
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** Python, R, Java, C#, C++, SQL, PHP, HTML/CSS
-- **Libraries/Tools:** PyTorch, TensorFlow, Scikit-learn, Pandas, BERT, DeBERTa
-- **Others:** Google Colab, VS Code, Git, AutoCAD, Jupyter Notebook
-
 ---
 
 ### 📊 GitHub Activity
