@@ -44,6 +44,14 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,colab" />
 </p>
+**ML / NLP & Data Science**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,colab" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=meta&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=ai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq_LLM-FF4D4D?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
 
 **Software & Environments**
 <p align="left">
