@@ -43,10 +43,7 @@
 **ML / NLP & Data Science**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,colab" />
-</p>
-**ML / NLP & Data Science**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,colab" />
+  <br>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0052CC?style=for-the-badge&logo=meta&logoColor=white" />
   <img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logo=ai&logoColor=white" />
@@ -80,24 +77,33 @@
 
 ### 🚀 Featured Projects
 
-#### 🤖 Machine Learning & NLP
+<details>
+<summary><b>🤖 Machine Learning & NLP</b></summary>
+<br>
+
 - **AI-Generated Text Detection:** Fine-tuned BERT and DeBERTa models for high-accuracy text classification.
 - **Credit Default Prediction:** A comparative analysis of ML models (LightGBM, Scikit-learn) using the Lending Club dataset.
 - **NLP News Analysis:** Pipeline for Real vs. Fake news detection using text preprocessing and classification.
 - **Climate Risk Prediction:** R-based framework using TF-IDF and PCA to analyze research abstracts.
+</details>
 
-#### 💻 Software & Systems
+<details>
+<summary><b>💻 Software & Systems</b></summary>
+<br>
+
 - **E-Ticketing System:** A robust Java-based project for ticket management.
 - **University Management System:** Full lifecycle project including ER modeling and SQL normalization.
 - **Employee Management:** Desktop and Windows applications built with .NET (C#).
 - **EcoShop QA:** Comprehensive test case execution and quality assurance for a sustainable e-commerce platform.
+</details>
 
-#### 🎨 Graphics & Engineering
+<details>
+<summary><b>🎨 Graphics & Engineering</b></summary>
+<br>
+
 - **JourneyByBus:** A 2D animation project developed using C++ and OpenGL.
 - **Canteen Plan:** Civil and electrical layout design compliant with BNBC standards using AutoCAD.
-
----
-
+</details>
 ---
 
 ### 📊 GitHub Activity
