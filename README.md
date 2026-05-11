@@ -35,7 +35,7 @@
   <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" />
 </p>
 
-**ML / NLP & Data Science**
+**ML/LLM/ NLP & Data Science**
 <p align="left">
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,pandas,numpy,jupyter,colab" />
   <br>
