@@ -85,6 +85,11 @@
 - **Credit Default Prediction:** A comparative analysis of ML models (LightGBM, Scikit-learn) using the Lending Club dataset.
 - **NLP News Analysis:** Pipeline for Real vs. Fake news detection using text preprocessing and classification.
 - **Climate Risk Prediction:** R-based framework using TF-IDF and PCA to analyze research abstracts.
+- **AI Software Agent (M_PRO-AI-V3):** Built a coding architect agent using Groq LLM, FAISS, and LangChain. Implements long-term memory for project rules and automated code review.
+- **RAG-based AI Document Assistant:** Developed a production-ready Retrieval-Augmented Generation system using FastAPI and LangChain. Features document ingestion, vector search with FAISS, and a real-time web UI.
+- **Plant Disease Classifier (CVPR):** Leveraged Transfer Learning (MobileNetV2) with a custom classification head. Utilized Data Augmentation, Dropout Regularization, and the Adam optimizer for high-efficiency .
+- **Loan Approval:** Engineered a complete classification workflow in R. Addressed class imbalance using ROSE oversampling and trained Logistic Regression models optimized via IQR outlier handling and data binning.
+- **Mental Health Exploratory Data Analysis:** Conducted rigorous statistical analysis in R to study the intersection of academic pressure and lifestyle, featuring advanced data preprocessing and IQR-based outlier detection.
 </details>
 
 <details>
