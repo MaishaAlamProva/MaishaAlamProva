@@ -1,8 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=MAISHA%20ALAM%20PROVA&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=220&section=header&text=MAISHA%20ALAM%20PROVA&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p>
-
-<h2 align="center">Hi Everyone, I am Maisha Alam Prova 👋</h2>
+<h2 align="center">Hi Everyone, I am Maisha Alam Prova</h2>
 
 <p align="center">
   <b>🎓 Currently pursuing Computer Science & Engineering @ AIUB</b><br>
