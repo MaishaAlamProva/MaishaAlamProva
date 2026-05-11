@@ -81,8 +81,7 @@
 <summary><b>🤖 Machine Learning & NLP</b></summary>
 <br>
 
-<summary><b>🤖 AI Text Detection</b></summary>
-<br>Fine-tuned BERT & DeBERTa for text classification.
+- **AI-Generated Text Detection:** Fine-tuned BERT and DeBERTa models for high-accuracy text classification.
 - **Credit Default Prediction:** A comparative analysis of ML models (LightGBM, Scikit-learn) using the Lending Club dataset.
 - **NLP News Analysis:** Pipeline for Real vs. Fake news detection using text preprocessing and classification.
 - **Climate Risk Prediction:** R-based framework using TF-IDF and PCA to analyze research abstracts.
