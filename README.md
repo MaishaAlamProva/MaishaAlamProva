@@ -1,17 +1,42 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2B48C,100:A67B5B&height=200&section=header&text=MAISHA%20ALAM%20PROVA&fontSize=50&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2B48C,100:A67B5B&height=220&section=header&text=MAISHA%20ALAM%20PROVA&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 </p> 
 
 <h2 align="center">Hi Everyone, I am Maisha Alam Prova 👋</h2>
 
 <p align="center">
-  <b>🎓 Currently pursuing Computer Science & Engineering @ AIUB</b><br>
-  
+  <b>🎓 Currently pursuing Computer Science & Engineering @ AIUB</b>
 </p>
 
 <p align="center">
   <i>"Turning complex data into actionable insights through robust software solutions and innovative research."</i>
 </p>
+
+<p align="center">
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://behance.net/yourprofile"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" /></a>
+</p>
+
+<hr />
+
+<h3 align="left">🛠 Skills & Tools:</h3>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+</p>
+
+<h3 align="left">📊 My Stats:</h3>
+<p align="left">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=calm&hide_border=true" width="48%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=calm&hide_border=true" width="48%" />
+</p>
+
+<br><br><br>
 
 <p align="center">
   <a href="YOUR_CV_LINK_HERE"><img src="https://img.shields.io/badge/DOWNLOAD-CV-0077b5?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
