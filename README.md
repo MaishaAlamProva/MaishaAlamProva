@@ -99,7 +99,10 @@
 - **E-Ticketing System:** A robust Java-based project for ticket management.
 - **University Management System:** Full lifecycle project including ER modeling and SQL normalization.
 - **Employee Management:** Desktop and Windows applications built with .NET (C#).
+- **Air Quality Index (AQI) App:** Full-stack platform for real-time air quality tracking in Bangladesh. Features secure authentication and a dynamic dashboard for personalized regional monitoring.
+- **Online Quiz System:** Role-based PHP/MySQL platform for educational assessment. Implements administrative quiz management and timed student exams with automated scoring.
 - **EcoShop QA:** Comprehensive test case execution and quality assurance for a sustainable e-commerce platform.
+- **Apartment Management Software:** C#/.NET desktop app with role-based portals for owners and tenants. Manages unit availability, rent records, and maintenance requests via integrated database tracking.
 </details>
 
 <details>
