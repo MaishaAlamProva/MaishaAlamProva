@@ -1,6 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D2B48C,100:A67B5B&height=200&section=header&text=MAISHA%20ALAM%20PROVA&fontSize=50&fontColor=ffffff" />
-</p> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B4DB,100:0083B0&height=200&section=header&text=MAISHA%20ALAM%20PROVA&fontSize=50&fontColor=ffffff" />
+</p>
 
 <h2 align="center">Hi Everyone, I am Maisha Alam Prova 👋</h2>
 
